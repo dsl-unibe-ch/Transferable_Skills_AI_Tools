@@ -1,5 +1,5 @@
-# Transferable Skills AI Tools 2025
-Program and material for the AI Methods and Tools for Research course organized by the Data Science Lab for the Transferable Skills Program (HS 2025).
+# Transferable Skills AI Tools
+Program and material for the AI Methods and Tools for Research course organized by the Data Science Lab for the Transferable Skills Program.
 More information about the Program and the course can be found [here](https://www.unibe.ch/forschung/dienstleistungen/akademische_laufbahnplanung/ts/ts_programm/index_ger.html).
 
 In line with open science requirements, the [Data Science Lab (DSL)](https://www.dsl.unibe.ch/) at UniBE develops internal AI-powered research tools. During the course, DSL team members will present these tools and the principles behind them, which also apply to third-party software.

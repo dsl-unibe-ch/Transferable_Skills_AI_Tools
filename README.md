@@ -11,17 +11,17 @@ The practical session will highlight the resources available at the University o
 # Schedule
 |<b>Time</b>| <b>Topic</b>| <b>Trainers</b>| <b>Slides</b> |
 |---| ---| ---| ---|
-|09:00-09:45| **Introduction to Data Types & AI Tools** | *Mykhailo Vladymyrov*|[link](https://docs.google.com/presentation/d/1X5AChP2c1gIm6JLQgJ69B_c-ADDoMtNeJFuGHeanD_I/edit?usp=sharing) |
-|09:45-10:30| **AI literacy & Open Science Good Practice** | *Federico Grasso Toro*| [link](https://docs.google.com/presentation/d/1A_RmJAF8XaywZvuqYmCEFusj_kpwIGgrRBaUspsp3Xw/edit?usp=sharing) |
-|10:30-10:45| Break|||
-|10:45-11:15| **Introduction to UBELIX**| *Ana Stojiljkovic*| [link](https://docs.google.com/presentation/d/1TxAyaPA5s62gPD4JhfTYlt9We-WNKKzSdWiIex4tXQQ/edit?usp=sharing)|
+|09:00-10:00| **Introduction to Data Types & AI Tools** | *Mykhailo Vladymyrov*|[link](https://docs.google.com/presentation/d/1X5AChP2c1gIm6JLQgJ69B_c-ADDoMtNeJFuGHeanD_I/edit?usp=sharing) |
+|10:00-10:45| **AI literacy & Open Science Good Practice** | *Federico Grasso Toro*| [link](https://docs.google.com/presentation/d/1A_RmJAF8XaywZvuqYmCEFusj_kpwIGgrRBaUspsp3Xw/edit?usp=sharing) |
+|10:45-11:00| Break|||
+|11:00-11:15| **Introduction to UBELIX**| *Matteo Boi*| [link](https://docs.google.com/presentation/d/1TxAyaPA5s62gPD4JhfTYlt9We-WNKKzSdWiIex4tXQQ/edit?usp=sharing)|
 |11:15-12:15| **OCR & audio transcription**| *Matteo Boi*| [link](https://docs.google.com/presentation/d/1Ssl93pxRJ34k3QBea7d1ttmZSGE9d0QFPY4_uTTNmTA/edit?usp=sharing)|
 |12:15-13:30| Lunch break|||
 |13:30-15:00| **RAG & LLMs**| *Ahmad Alhineidi*| [link](https://docs.google.com/presentation/d/1RDLz-HrtbNpsZzpXugUW_KdP0JnlMl1x-KA6PtQqrwY/edit?usp=sharing) |
 |15:00-15:15| Break|||
-|15:20-16:15| **Knowledge Graphs**| *Ana Stojiljkovic*|[link](https://docs.google.com/presentation/d/1q0j4A5xou6F12376BNBZ9k8IR5pUUTdv0XJJiWB4wdc/edit?usp=sharing)|
-|16:15-16:40| **Data Visualization with AI**| *Matteo Boi*||
-|16:40-17:00| **Q&A and closing remarks**| *Matteo Boi & Ana Stojiljkovic*||
+|15:15-16:15| **Topic Modelling and Knowledge Graph**| *Sukanya Nath*| *Coming soon*
+|16:15-16:30| **Data Visualization with AI**| *Mykhailo Vladymyrov*||
+|16:30-17:00| **Q&A and closing remarks**| *Ahmad Alhineidi and Mykhailo Vladymyrov*||
 
 
 Text Lab survey. Please fill (2 min) [link](https://forms.gle/MrmvcurPuHMC9oMN7)

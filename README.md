@@ -19,7 +19,7 @@ The practical session will highlight the resources available at the University o
 |12:15-13:30| Lunch break|||
 |13:30-15:00| **RAG & LLMs**| *Ahmad Alhineidi*| [link](https://docs.google.com/presentation/d/1RDLz-HrtbNpsZzpXugUW_KdP0JnlMl1x-KA6PtQqrwY/edit?usp=sharing) |
 |15:00-15:15| Break|||
-|15:15-16:15| **Topic Modelling and Knowledge Graph**| *Sukanya Nath*| *Coming soon*
+|15:15-16:15| **Knowledge Graph**| *Sukanya Nath*| [link](https://docs.google.com/presentation/d/11ovWbzkuEkRpayxv7mgt_C5fNwb4TJsXY_AzzQrXLWY/edit?usp=sharing)
 |16:15-16:30| **Data Visualization with AI**| *Mykhailo Vladymyrov*||
 |16:30-17:00| **Q&A and closing remarks**| *Ahmad Alhineidi and Mykhailo Vladymyrov*||
 

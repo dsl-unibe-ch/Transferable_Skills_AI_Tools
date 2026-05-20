@@ -23,5 +23,10 @@ The practical session will highlight the resources available at the University o
 |16:15-16:30| **Data Visualization with AI**| *Mykhailo Vladymyrov*||
 |16:30-17:00| **Q&A and closing remarks**| *Ahmad Alhineidi and Mykhailo Vladymyrov*||
 
+# Textlab
+To start Textlab, please use the reservation for this course `reservation=DSL_AI_TOOLS` on [Ondemand](https://ondemand.hpc.unibe.ch/).</br>
+See the image below for example.</br>
+
+<img width="2687" height="1865" alt="image" src="https://github.com/user-attachments/assets/0a62f70d-2361-480c-9b20-36039d4b4b12" />
 
 Text Lab survey. Please fill (2 min) [link](https://forms.gle/MrmvcurPuHMC9oMN7)

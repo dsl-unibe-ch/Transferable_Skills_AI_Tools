@@ -18,9 +18,9 @@ The practical session will highlight the resources available at the University o
 |11:00-11:15| **Introduction to UBELIX**| *Matteo Boi*| [link](https://docs.google.com/presentation/d/1TxAyaPA5s62gPD4JhfTYlt9We-WNKKzSdWiIex4tXQQ/edit?usp=sharing)|
 |11:15-12:15| **OCR & audio transcription**| *Matteo Boi*| [link](https://docs.google.com/presentation/d/1Ssl93pxRJ34k3QBea7d1ttmZSGE9d0QFPY4_uTTNmTA/edit?usp=sharing)|
 |12:15-13:15| Lunch break|||
-|13:15-13:45| **Topic Modeling**| *Ahmad Alhineidi*||
+|13:15-13:45| **Topic Modeling**| *Ahmad Alhineidi*| [link](https://docs.google.com/presentation/d/1fDYmzTZlH1otqiwz_6BzzT7E3t7z2KcCCkT_q_Za1p0/edit?usp=sharing)|
 |13:45-14:15| **Text processing tools**| *Ana Stojiljkovic*||
-|14:15-14:45| **Data analysis with AI**| *Ahmad Alhineiid*||
+|14:15-14:45| **Data analysis with AI**| *Ahmad Alhineidi*|  [link](https://docs.google.com/presentation/d/1fDYmzTZlH1otqiwz_6BzzT7E3t7z2KcCCkT_q_Za1p0/edit?usp=sharing)|
 |14:45-15:00| Break|||
 |15:00-15:30| **Knowledge Graph**| *Ana Stojiljkovic*| [link](https://docs.google.com/presentation/d/11ovWbzkuEkRpayxv7mgt_C5fNwb4TJsXY_AzzQrXLWY/edit?usp=sharing)
 |15:30-16:45| **Q&A and workshop**| *Ahmad Alhineidi and Ana Stojiljkovic*||

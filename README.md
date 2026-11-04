@@ -34,7 +34,10 @@ See the image below for example.</br>
 
 ## Hands-on: OCR & audio transcription
 1. Download **all sample files in one go**: [materials/all_sample_files.zip](https://github.com/dsl-unibe-ch/Transferable_Skills_AI_Tools/raw/main/materials/all_sample_files.zip)
-2. Follow the exercise sheet: [materials/EXERCISES.md](materials/EXERCISES.md)
+2. Follow the exercise sheet: [materials/EXERCISES_part1.md](materials/EXERCISES_part1.md)
+
+## Hands-on: Text Processing
+Follow the exercise sheet: [materials/EXERCISES_part2.md](materials/EXERCISES_part2.md)
 
 The sample files are synthetic: computer-generated voices and a fictional article, so they are free to use and share.
 Text Lab documentation: <https://text-lab.dsl.unibe.ch>

@@ -30,7 +30,7 @@ The practical session will highlight the resources available at the University o
 To start Textlab, please use the reservation for this course `reservation=DSL_TEXTLAB` on [Ondemand](https://ondemand.hpc.unibe.ch/).</br>
 See the image below for example.</br>
 
-<img width="2687" height="1865" alt="image" src="https://github.com/dsl-unibe-ch/Transferable_Skills_AI_Tools/blob/main/DSL_TEXTLAB_Reservation.png" />
+<img width="2687" height="1865" alt="image" src="https://github.com/dsl-unibe-ch/Transferable_Skills_AI_Tools/blob/main/assets/DSL_TEXTLAB_Reservation.png" />
 
 ## Hands-on: OCR & audio transcription
 1. Download **all sample files in one go**: [materials/all_sample_files.zip](https://github.com/dsl-unibe-ch/Transferable_Skills_AI_Tools/raw/main/materials/all_sample_files.zip)

@@ -22,7 +22,7 @@ The practical session will highlight the resources available at the University o
 |13:45-14:15| **Text processing tools**| *Ana Stojiljkovic*||
 |14:15-14:45| **Data analysis with AI**| *Ahmad Alhineidi*|  [link](https://docs.google.com/presentation/d/1fDYmzTZlH1otqiwz_6BzzT7E3t7z2KcCCkT_q_Za1p0/edit?usp=sharing)|
 |14:45-15:00| Break|||
-|15:00-15:30| **Knowledge Graph**| *Ana Stojiljkovic*| [link](https://docs.google.com/presentation/d/11ovWbzkuEkRpayxv7mgt_C5fNwb4TJsXY_AzzQrXLWY/edit?usp=sharing)
+|15:00-15:30| **Knowledge Graph**| *Ana Stojiljkovic*| [link](https://docs.google.com/presentation/d/1dC3XcaPVLNrJ6C5g3BAcZsA7AbtNZfjXvHWWeIMu6Jc/edit?usp=sharing)
 |15:30-16:45| **Q&A and workshop**| *Ahmad Alhineidi and Ana Stojiljkovic*||
 |16:45-17:00| **Closing remarks**| *Ahmad Alhineidi and Ana Stojiljkovic*||
 

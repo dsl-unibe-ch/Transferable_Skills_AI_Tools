@@ -10,11 +10,23 @@ Your files never leave the university, and they are deleted when your session en
 ## 0. Start Text Lab (11:08)
 
 1. Open <https://ondemand.hpc.unibe.ch>. You must be on the university network or VPN.
-2. Go to **Interactive Apps → Text Lab**.
-3. Set the reservation to **`DSL_AI_TOOLS`** (see the screenshot in the course README), then click **Launch**.
+2. Go to **My Interactive Sessions → Data Science Lab Services → Text Lab**.
+3. Fill in the form (see the screenshot in the course README), then click **Launch**:
+
+   | Setting | Today | Next time, on your own |
+   |---|---|---|
+   | Account | `teaching` | `gratis` |
+   | Job Time (hours) | `6` | as needed |
+   | SLURM Partition | `gpu` | `gpu` |
+   | Quality of Service (QoS) | `job_teaching` | `job_gratis` |
+   | GPU Type | `rtx4090` | `rtx4090` |
+   | Number of GPU(s) requested | `1` | `1` |
+   | Reservation | `DSL_AI_TOOLS` | *leave empty* |
+
 4. Wait until the card turns green, then click **Connect to Text Lab**.
 
-> Stuck? Raise your hand and work with your neighbour in the meantime.
+> ⚠️ **Using Text Lab after today?** The `teaching` account, the `job_teaching` QoS and the `DSL_AI_TOOLS` reservation **only work during this course**.
+> Next time, switch to `gratis` and `job_gratis` and leave the reservation empty. Otherwise your job will not start.
 
 ---
 
@@ -59,6 +71,7 @@ You can compare with the real script in `audio/transcripts/interview_en_script.t
 
 1. Open **OCR**, upload the **born-digital** PDF and click **Parse document**. Note how long it takes.
 2. Do the same with the **scan**. Why does it take longer?
+   Compare the two results: which one gives you headings, a real table and the formula?
 3. In the scan's results:
    - **Layout preview:** which colour marks the title, the table, the figure and the formula?
    - **Tables:** is Table 1 a real table? Download it as CSV and open it in Excel. Check the **header row** carefully.

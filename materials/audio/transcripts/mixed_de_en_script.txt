@@ -1,0 +1,5 @@
+[Sonia] Hello and welcome to episode twelve of our research podcast, where we talk with people at the University of Bern about how they actually do their work, day to day, and what tools help them.
+[Sonia] Today my guest is Jan. Jan is a sociologist, and for the last two years he has been studying how people in Bern use public libraries, and how that has changed since the pandemic. His team interviewed students, retired people, and families with young children.
+[Sonia] Jan, I know you are more comfortable in German, and our listeners can handle that, so please go ahead and answer in German. What was the most surprising thing you found?
+[Jan] Sehr gerne, vielen Dank für die Einladung. In unserem Projekt haben wir über zweihundert Personen befragt. Viele nutzen die Bibliothek nicht mehr zum Ausleihen, sondern als ruhigen Arbeitsplatz. Besonders Studierende kommen am Abend, weil es zu Hause zu laut ist. Das hat uns ehrlich gesagt überrascht.
+[Jan] Für die Auswertung haben wir alle Interviews transkribiert und danach die Themen mit einem Sprachmodell gruppiert. Die Daten blieben dabei immer an der Universität.

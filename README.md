@@ -27,7 +27,7 @@ The practical session will highlight the resources available at the University o
 |16:45-17:00| **Closing remarks**| *Ahmad Alhineidi and Ana Stojiljkovic*||
 
 # Textlab
-To start Textlab, please use the reservation for this course `reservation=DSL_AI_TOOLS` on [Ondemand](https://ondemand.hpc.unibe.ch/).</br>
+To start Textlab, please use the reservation for this course `reservation=DSL_TEXTLAB` on [Ondemand](https://ondemand.hpc.unibe.ch/).</br>
 See the image below for example.</br>
 
 <img width="2687" height="1865" alt="image" src="https://github.com/user-attachments/assets/0a62f70d-2361-480c-9b20-36039d4b4b12" />

@@ -37,7 +37,7 @@ See the image below for example.</br>
 2. Follow the exercise sheet: [materials/EXERCISES_part1.md](materials/EXERCISES_part1.md)
 
 ## Hands-on: Text Processing
-Follow the exercise sheet: [materials/EXERCISES_part2.md](materials/EXERCISES_part2.md)
+1. Follow the exercise sheet: [materials/EXERCISES_part2.md](materials/EXERCISES_part2.md)
 
 The sample files are synthetic: computer-generated voices and a fictional article, so they are free to use and share.
 Text Lab documentation: <https://text-lab.dsl.unibe.ch>

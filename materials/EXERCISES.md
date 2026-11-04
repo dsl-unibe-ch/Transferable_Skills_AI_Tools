@@ -41,7 +41,8 @@ You can compare with the real script in `audio/transcripts/interview_en_script.t
 **File:** `audio/mixed_de_en.wav` (1 min 9 s). It starts in English and continues in German.
 
 1. Transcribe it as one file, keeping the detected language.
-2. Read the German part of the transcript. What happened to it?
+2. Compare the German part of the transcript with the real script in `audio/transcripts/mixed_de_en_script.txt`.
+   Read every sentence: is it all still in German?
 
 **The workaround:** Text Lab uses one language per file, so split the recording by language.
 1. Choose **Batch transcribe (ZIP)** and upload `audio/mixed_split.zip`. It contains the same recording, cut into an English part and a German part.
@@ -60,7 +61,7 @@ You can compare with the real script in `audio/transcripts/interview_en_script.t
 2. Do the same with the **scan**. Why does it take longer?
 3. In the scan's results:
    - **Layout preview:** which colour marks the title, the table, the figure and the formula?
-   - **Tables:** is Table 1 a real table? Download it as CSV and open it in Excel.
+   - **Tables:** is Table 1 a real table? Download it as CSV and open it in Excel. Check the **header row** carefully.
    - **Figures:** was the chart cropped out?
    - **Document:** how was the formula exported?
 4. Download the **Searchable PDF**, open it, and press **Ctrl+F** to search for `Tesseract`.

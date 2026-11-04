@@ -45,7 +45,7 @@ Your files never leave the university, and they are deleted when your session en
 - Does it find three speakers, and does each keep the same label?
 - At about 1:08, two people talk over each other. What happens to the labels there?
 - How are **UBELIX** and **PaddleOCR** spelled?
-- Download the **.srt** or **.csv**. What would you use each one for?
+- Download the **.zip** bundle. What would you each file in it for?
 
 You can compare with the real script in `audio/transcripts/interview_en_script.txt`.
 

@@ -15,8 +15,8 @@ The practical session will highlight the resources available at the University o
 |09:15-10:00| **AI literacy & Open Science - Good Practices** | *Federico Grasso Toro*| [link](https://docs.google.com/presentation/d/1urED2nCZl4_LgjIITVJmBibkwr__zUgFt84b8azv_FU/edit?usp=sharing) |
 |10:00-10:45| **Introduction to Data Types, LLMs & AI Tools** | *Mykhailo Vladymyrov*|[link](https://docs.google.com/presentation/d/1X5AChP2c1gIm6JLQgJ69B_c-ADDoMtNeJFuGHeanD_I/edit?usp=sharing) |
 |10:45-11:00| Break|||
-|11:00-11:15| **Introduction to UBELIX**| *Matteo Boi*| [link](https://docs.google.com/presentation/d/1TxAyaPA5s62gPD4JhfTYlt9We-WNKKzSdWiIex4tXQQ/edit?usp=sharing)|
-|11:15-12:15| **OCR & audio transcription**| *Matteo Boi*| [link](https://docs.google.com/presentation/d/1Ssl93pxRJ34k3QBea7d1ttmZSGE9d0QFPY4_uTTNmTA/edit?usp=sharing)|
+|11:00-11:15| **Introduction to UBELIX**| *Matteo Boi*| [link](https://docs.google.com/presentation/d/1CFdUJtbSWbvt70ghigMz0Ld6xJ5eF_ZNM6eoYuAVp5Y/edit?usp=sharing)|
+|11:15-12:15| **OCR & audio transcription**| *Matteo Boi*| [link](https://docs.google.com/presentation/d/1JsmwO5KYurXczhRqRaGEAEb8feOjNSqQIPKWqrPJeFs/edit?usp=sharing)|
 |12:15-13:15| Lunch break|||
 |13:15-13:45| **Topic Modeling**| *Ahmad Alhineidi*| [link](https://docs.google.com/presentation/d/1fDYmzTZlH1otqiwz_6BzzT7E3t7z2KcCCkT_q_Za1p0/edit?usp=sharing)|
 |13:45-14:15| **Text processing tools**| *Ana Stojiljkovic*||

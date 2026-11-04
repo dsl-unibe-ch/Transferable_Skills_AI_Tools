@@ -32,6 +32,13 @@ See the image below for example.</br>
 
 <img width="2687" height="1865" alt="image" src="https://github.com/user-attachments/assets/0a62f70d-2361-480c-9b20-36039d4b4b12" />
 
+## Hands-on: OCR & audio transcription
+1. Download **all sample files in one go**: [materials/all_sample_files.zip](https://github.com/dsl-unibe-ch/Transferable_Skills_AI_Tools/raw/main/materials/all_sample_files.zip)
+2. Follow the exercise sheet: [materials/EXERCISES.md](materials/EXERCISES.md)
+
+The sample files are synthetic: computer-generated voices and a fictional article, so they are free to use and share.
+Text Lab documentation: <https://text-lab.dsl.unibe.ch>
+
 Text Lab survey. Please fill (2 min) [link](https://forms.gle/MrmvcurPuHMC9oMN7)
 
 Transferable skills survey [link](https://ilias.unibe.ch/go/svy/2775745)

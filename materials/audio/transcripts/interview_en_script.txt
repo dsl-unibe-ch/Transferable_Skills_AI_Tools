@@ -1,0 +1,14 @@
+[Interviewer] Welcome, and thanks for joining. You both work with old archive material. What problem were you trying to solve?
+[Emma] We had about four thousand scanned letters from the eighteen hundreds. Nobody could search them. We needed the text, not just the pictures.
+[Prabhat] And on my side it was interviews. Around sixty hours of recordings with farmers in the Emmental. Typing that by hand would have taken a year.
+[Interviewer] So how did you approach it? Did you send everything to a cloud service?
+[Emma] No, and that was the main constraint. Some letters contain personal data, so the files could not leave the university. We ran PaddleOCR on the UBELIX cluster instead, through Text Lab.
+[Prabhat] Same for the interviews. Our ethics approval simply did not allow an external provider.
+[Interviewer] And was the quality good enough, or did you still have to correct a lot?
+[Emma] For printed pages it was excellent. Handwriting was harder, maybe one word in ten needed fixing, so we always kept a human check at the end.
+[Prabhat] Sorry, can I jump in? Because for audio the hardest part was not the words.
+[Emma] Go ahead.
+[Prabhat] It was knowing who said what. When two people talk at the same time, the speaker labels get mixed up, so we checked those sections by ear.
+[Interviewer] That is a good warning. Any last advice for someone starting today?
+[Emma] Start with ten pages, not four thousand. Check the result, then scale up.
+[Prabhat] And write down which model you used. You will need it for the methods section.

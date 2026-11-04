@@ -7,7 +7,7 @@ Your files never leave the university, and they are deleted when your session en
 
 ---
 
-## 0. Start Text Lab (11:08)
+## 0. Start Text Lab
 
 1. Open <https://ondemand.hpc.unibe.ch>. You must be on the university network or VPN.
 2. Go to **My Interactive Sessions → Data Science Lab Services → Text Lab**.
@@ -30,7 +30,7 @@ Your files never leave the university, and they are deleted when your session en
 
 ---
 
-## A. Speech-to-Text (11:20–11:35)
+## A. Speech-to-Text
 
 ### A1: Who said what?
 **File:** `audio/interview_en.wav` (1 min 48 s, three people).
@@ -65,7 +65,7 @@ You can compare with the real script in `audio/transcripts/interview_en_script.t
 
 ---
 
-## B. OCR: from a scan to structured text (11:45–12:00)
+## B. OCR: from a scan to structured text
 
 **Files:** `documents/sample_paper_born_digital.pdf` and `documents/sample_paper_scan.pdf`. It is the same article twice.
 
@@ -84,7 +84,7 @@ You can compare with the real script in `audio/transcripts/interview_en_script.t
 
 ---
 
-## C. Your own file (12:00–12:10)
+## C. Your own file
 
 Try a real file from your work: a scan, a photo of a page, or a short recording (under 3 minutes for today).
 Processing happens on UBELIX and the file is deleted when your session ends.

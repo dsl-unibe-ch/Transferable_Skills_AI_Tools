@@ -12,7 +12,7 @@ The practical session will highlight the resources available at the University o
 |<b>Time</b>| <b>Topic</b>| <b>Trainers</b>| <b>Slides</b> |
 |---| ---| ---| ---|
 |09:00-09:15| **Course Objectives and learning outcome (Get to know each other)** | *Mykhailo Vladymyrov*|[link](https://docs.google.com/presentation/d/1sK1gBRwK0XGKE706jDD6zBTp1egg8kzjMAsdYTxxEBQ/edit?usp=sharing) |
-|09:15-10:00| **AI literacy & Open Science - Good Practices** | *Federico Grasso Toro*| [link] (https://docs.google.com/presentation/d/1HpR88448Us1ooglCOm-TjB91bj0S7nQsrZ4AlAIMGdY/edit?usp=sharing) |
+|09:15-10:00| **AI literacy & Open Science - Good Practices** | *Federico Grasso Toro*| [link](https://docs.google.com/presentation/d/1HpR88448Us1ooglCOm-TjB91bj0S7nQsrZ4AlAIMGdY/edit?usp=sharing)  |
 |10:00-10:45| **Introduction to Data Types, LLMs & AI Tools** | *Mykhailo Vladymyrov*|[link](https://docs.google.com/presentation/d/1X5AChP2c1gIm6JLQgJ69B_c-ADDoMtNeJFuGHeanD_I/edit?usp=sharing) |
 |10:45-11:00| Break|||
 |11:00-11:15| **Introduction to UBELIX**| *Matteo Boi*| [link](https://docs.google.com/presentation/d/1CFdUJtbSWbvt70ghigMz0Ld6xJ5eF_ZNM6eoYuAVp5Y/edit?usp=sharing)|

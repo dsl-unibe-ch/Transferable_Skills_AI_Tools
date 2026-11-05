@@ -19,7 +19,7 @@ The practical session will highlight the resources available at the University o
 |11:15-12:15| **OCR & audio transcription**| *Matteo Boi*| [link](https://docs.google.com/presentation/d/1JsmwO5KYurXczhRqRaGEAEb8feOjNSqQIPKWqrPJeFs/edit?usp=sharing)|
 |12:15-13:15| Lunch break|||
 |13:15-13:45| **Topic Modeling**| *Ahmad Alhineidi*| [link](https://docs.google.com/presentation/d/1fDYmzTZlH1otqiwz_6BzzT7E3t7z2KcCCkT_q_Za1p0/edit?usp=sharing)|
-|13:45-14:15| **Text processing tools**| *Ana Stojiljkovic*||
+|13:45-14:15| **Text processing tools**| *Ana Stojiljkovic*|[link](https://github.com/dsl-unibe-ch/Transferable_Skills_AI_Tools/blob/main/materials/EXERCISES_part2.md)|
 |14:15-14:45| **Data analysis with AI**| *Ahmad Alhineidi*|  [link](https://docs.google.com/presentation/d/1fDYmzTZlH1otqiwz_6BzzT7E3t7z2KcCCkT_q_Za1p0/edit?usp=sharing)|
 |14:45-15:00| Break|||
 |15:00-15:30| **Knowledge Graph**| *Ana Stojiljkovic*| [link](https://docs.google.com/presentation/d/1dC3XcaPVLNrJ6C5g3BAcZsA7AbtNZfjXvHWWeIMu6Jc/edit?usp=sharing)
